@@ -1,0 +1,28 @@
+name: Fotos
+favicon: null
+layout_spectrum: 0.6334976672660559
+typography_spectrum: 0.7579591074027121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.19386262563057244
+  lightness: 0.389559387229383
+  saturation: 0.42700994201004505
+  rhythmicContrast: 0.7153101542498916
+purpose: []
